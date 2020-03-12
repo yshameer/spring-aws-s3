@@ -8,7 +8,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
 @EnableSwagger2
-@ComponentScan(basePackages = "com.shameer.spring.aws.s3.service")
+@ComponentScan(basePackages = "com.github.yshameer.spring.aws.s3.service")
 public class SpringAwsS3ServiceApplication implements CommandLineRunner {
 
 	public static void main(String[] args) {

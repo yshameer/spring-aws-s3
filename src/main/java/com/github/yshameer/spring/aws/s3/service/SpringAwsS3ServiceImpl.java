@@ -1,4 +1,4 @@
-package com.shameer.spring.aws.s3.service;
+package com.github.yshameer.spring.aws.s3.service;
 
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.services.s3.AmazonS3;

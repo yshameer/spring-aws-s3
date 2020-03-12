@@ -1,4 +1,4 @@
-package com.shameer.spring.aws.s3.service;
+package com.github.yshameer.spring.aws.s3.service;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

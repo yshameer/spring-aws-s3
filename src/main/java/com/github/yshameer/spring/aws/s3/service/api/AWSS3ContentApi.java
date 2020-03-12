@@ -1,4 +1,4 @@
-package com.shameer.spring.aws.s3.service.api;
+package com.github.yshameer.spring.aws.s3.service.api;
 
 import io.swagger.annotations.*;
 import org.springframework.http.ResponseEntity;

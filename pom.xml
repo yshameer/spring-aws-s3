@@ -3,7 +3,7 @@
   http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.shameer</groupId>
+	<groupId>com.github.yshameer</groupId>
 	<artifactId>spring-aws-s3-service</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>spring-aws-s3-service</name>

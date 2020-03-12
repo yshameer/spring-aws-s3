@@ -1,4 +1,4 @@
-package com.shameer.spring.aws.s3.service;
+package com.github.yshameer.spring.aws.s3.service;
 
 
 import org.springframework.web.multipart.MultipartFile;

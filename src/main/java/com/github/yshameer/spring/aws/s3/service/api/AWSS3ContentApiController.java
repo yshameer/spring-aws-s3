@@ -1,6 +1,6 @@
-package com.shameer.spring.aws.s3.service.api;
+package com.github.yshameer.spring.aws.s3.service.api;
 
-import com.shameer.spring.aws.s3.service.SpringAwsS3Service;
+import com.github.yshameer.spring.aws.s3.service.SpringAwsS3Service;
 import io.swagger.annotations.ApiParam;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.shameer.spring.aws.s3.service.configuration;
+package com.github.yshameer.spring.aws.s3.service.configuration;
 
 import com.amazonaws.services.s3.AmazonS3;
 import org.junit.Test;

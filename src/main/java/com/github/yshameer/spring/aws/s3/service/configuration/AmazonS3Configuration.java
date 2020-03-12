@@ -1,4 +1,4 @@
-package com.shameer.spring.aws.s3.service.configuration;
+package com.github.yshameer.spring.aws.s3.service.configuration;
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;

@@ -20,7 +20,7 @@
 		<springfox.version>2.5.0</springfox.version>
 		<springtestdbunit.version>1.2.1</springtestdbunit.version>
 		<openpojo.version>0.8.6</openpojo.version>
-		<awsjavasdks3.version>1.11.171</awsjavasdks3.version>
+		<awsjavasdks3.version>1.12.261</awsjavasdks3.version>
 		<spring.boot.version>2.5.12</spring.boot.version>
 	</properties>
 

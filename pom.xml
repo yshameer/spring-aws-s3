@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<springfox.version>2.5.0</springfox.version>
+		<springfox.version>2.10.0</springfox.version>
 		<springtestdbunit.version>1.2.1</springtestdbunit.version>
 		<openpojo.version>0.8.6</openpojo.version>
 		<awsjavasdks3.version>1.12.261</awsjavasdks3.version>
